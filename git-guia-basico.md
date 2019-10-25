@@ -98,7 +98,7 @@ O básico para "se virar".
 # Recebe status do repositório, dos arquivos
 git status
 ```
-Os arquivos no seu repositório estarão em um dos dois estados: untracket (não monitorado) ou tracked (monitorado).
+Os arquivos no seu repositório estarão em um dos dois estados: untracked (não monitorado) ou tracked (monitorado).
 
 # git status
 
